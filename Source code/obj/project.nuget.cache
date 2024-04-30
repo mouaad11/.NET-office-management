@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "b+w2FEtddTObtZXWHU837iXQGILV8oiVrt19Ht7629CRFvsqQv3o3/I4TjX8SorWPREGftz5aCCQbYslB83Q2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ATLAS PRO ELECTRO\\source\\repos\\TestCabinetRepository\\TestCabinetRepository.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ATLAS PRO ELECTRO\\.nuget\\packages\\mysqlconnector\\2.2.5\\mysqlconnector.2.2.5.nupkg.sha512"
+  ],
+  "logs": []
+}
